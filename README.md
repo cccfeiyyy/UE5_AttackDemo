@@ -74,7 +74,7 @@
 1. 克隆或下载本仓库到本地
 
 ```bash
-git clone https://github.com/你的用户名/BladeOfElement.git
+git clone https://github.com/cccfeiyyy/UE5_AttackDemo.git
 ```
 
 2. 双击 `BladeOfElement.uproject`，使用 UE 5\.3 打开项目
